@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ian</h1>
-<h3 align="center">A motivated Software developer</h3>
+<h3 align="center">Passionate Software developer</h3>
 
 - 💬 Ask me about **Python,Django, Backend-ops**
 
